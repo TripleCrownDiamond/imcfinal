@@ -1,0 +1,65 @@
+{
+    "register": {
+      "title": "Inscription",
+      "first_name": "Nom",
+      "last_name": "Prenom",
+      "username": "Nom d'utilisateur",
+      "country": "Pays",
+      "select_country": "Sélectionnez un pays",
+      "email": "E-mail",
+      "password": "Mot de passe",
+      "confirm_password": "Confirmer le mot de passe",
+      "hide_password": "Masquer le mot de passe",
+      "show_password": "Afficher le mot de passe",
+      "already_registered": "Déjà inscrit ?",
+      "register_button": "S'inscrire",
+      "success": "Inscription réussie. Bienvenue!",
+      "errors": {
+        "first_name_required": "Le nom est requis.",
+        "last_name_required": "Le prénom est requis.",
+        "username_required": "Le nom d'utilisateur est requis.",
+        "username_unique": "Ce nom d'utilisateur est déjà pris.",
+        "email_required": "L'email est requis.",
+        "email_email": "L'email doit être valide.",
+        "email_unique": "Cet email est déjà utilisé.",
+        "password_required": "Le mot de passe est requis.",
+        "password_confirmation_required": "La confirmation du mot de passe est requise.",
+        "password_confirmation_same": "La confirmation du mot de passe doit correspondre.",
+        "country_required": "Le pays est requis."
+      }
+    },
+    "login": {
+      "title": "Connexion",
+      "email_or_username": "E-mail ou Nom d'utilisateur",
+      "password": "Mot de passe",
+      "remember_me": "Se souvenir de moi",
+      "login_button": "Connexion",
+      "forgot_password": "Mot de passe oublié ?",
+      "not_registered": "Vous n'avez pas encore de compte ?",
+      "create_account": "Créer un compte",
+      "show_password":"Afficher le mot de passe",
+      "hide_password":"Masquer le mot de passe",
+      "auth_failed": "Connexion échouée",
+      "login_required": "Le champ e-mail ou nom d'utilisateur est obligatoire.",
+      "login_string": "Le champ e-mail ou nom d'utilisateur doit être une chaîne valide.",
+      "password_required": "Le champ mot de passe est obligatoire.",
+      "password_string": "Le mot de passe doit être une chaîne valide."
+    },
+    "forgot_password": {
+      "title": "Mot de passe oublié",
+      "description": "Vous avez oublié votre mot de passe ? Aucun problème. Indiquez simplement votre adresse e-mail et nous vous enverrons un lien de réinitialisation de mot de passe qui vous permettra d'en choisir un nouveau.",
+      "email": "E-mail",
+      "email_password_reset_link": "Envoyer le lien de réinitialisation de mot de passe",
+      "status": "Si l'e-mail est associé à un compte, un lien de réinitialisation a été envoyé.",
+      "email_sent": "Le lien de réinitialisation du mot de passe a été envoyé à votre adresse e-mail.",
+      "email_not_sent": "Une erreur s'est produite lors de l'envoi du lien de réinitialisation. Veuillez réessayer."
+    },
+    "password_reset_email": {
+      "subject": "Réinitialisation de votre mot de passe",
+      "greeting": "Bonjour,",
+      "line_1": "Vous avez demandé à réinitialiser votre mot de passe.",
+      "action": "Réinitialiser le mot de passe",
+      "line_2": "Si vous n'avez pas demandé de réinitialisation, veuillez ignorer ce message."
+    }
+  }
+  

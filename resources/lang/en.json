@@ -1,0 +1,20 @@
+{
+    "register": {
+      "title": "Register",
+      "name": "Name",
+      "email": "Email",
+      "password": "Password",
+      "confirm_password": "Confirm Password",
+      "already_registered": "Already registered?",
+      "register_button": "Register"
+    },
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "remember_me": "Remember me",
+      "login_button": "Login",
+      "forgot_password": "Forgot password?"
+    }
+  }
+  
